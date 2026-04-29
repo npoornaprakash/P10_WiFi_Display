@@ -53,14 +53,14 @@
 
 ### Essential Components
 
-| Component | Quantity | Specifications | Approx. Cost |
-|-----------|----------|----------------|---------------|
-| **Arduino UNO** | 1 | R3, ATmega328P | $20-25 |
-| **ESP32 Dev Board** | 1 | ESP32-WROOM-32, 38-pin | $8-12 |
-| **P10 LED Panel** | 1+ | 32x16 or 32x64 dot matrix | $15-25 each |
-| **5V Power Supply** | 1 | 2A minimum (3A recommended) | $10-15 |
-| **Jumper Wires** | 10+ | Female-to-female, Male-to-female | $5 |
-| **USB Cables** | 2 | A to B (Arduino), Micro USB (ESP32) | $5 |
+| Component | Quantity | Specifications |
+|-----------|----------|----------------
+| **Arduino UNO** | 1 | R3, ATmega328P 
+| **ESP32 Dev Board** | 1 | ESP32-WROOM-32, 38-pin 
+| **P10 LED Panel** | 1+ | 32x16 or 32x64 dot matrix 
+| **5V Power Supply** | 1 | 2A minimum (3A recommended) 
+| **Jumper Wires** | 10+ | Female-to-female, Male-to-female 
+| **USB Cables** | 2 | A to B (Arduino), Micro USB (ESP32) 
 
 ### Optional Components
 
